@@ -1,0 +1,29 @@
+{
+  "name": "moondibotv2",
+  "version": "0.5.0",
+  "description": "A Facebook Messenger bot built to work with heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "mytest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add later"
+  },
+  "keywords": [
+    "facebook",
+    "bot",
+    "messenger",
+    "heroku",
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "Kapay yongololo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
